@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+I like Java and Oracle Database as my master programming language and DB system.
